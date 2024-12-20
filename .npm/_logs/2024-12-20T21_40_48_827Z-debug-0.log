@@ -1,0 +1,18 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.2
+2 info using node@v23.5.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/mnt/c/Users/Alej's/AppData/Local/Programs/Microsoft VS Code/.npmrc
+5 silly config load:file:/home/alej_coder/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm config get prefix
+8 verbose argv "config" "get" "prefix"
+9 verbose logfile logs-max:10 dir:/home/alej_coder/.npm/_logs/2024-12-20T21_40_48_827Z-
+10 verbose logfile /home/alej_coder/.npm/_logs/2024-12-20T21_40_48_827Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /mnt/c/Users/Alej's/AppData/Local/Programs/Microsoft VS Code
+13 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+14 verbose node v23.5.0
+15 verbose npm  v10.9.2
+16 verbose exit 0
+17 info ok

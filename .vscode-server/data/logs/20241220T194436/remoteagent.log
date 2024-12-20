@@ -1,0 +1,68 @@
+2024-12-20 19:44:36.567 [info] 
+
+
+
+
+2024-12-20 19:44:36.567 [info] Extension host agent started.
+2024-12-20 19:44:36.583 [info] Started initializing default profile extensions in extensions installation folder. file:///home/alej_coder/.vscode-server/extensions
+2024-12-20 19:44:36.618 [info] [127.0.0.1][bad6fbf2][ManagementConnection] New connection established.
+2024-12-20 19:44:36.620 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/alej_coder/.vscode-server/extensions
+2024-12-20 19:44:36.980 [info] [127.0.0.1][14d6f0cc][ExtensionHostConnection] New connection established.
+2024-12-20 19:44:36.997 [info] [127.0.0.1][14d6f0cc][ExtensionHostConnection] <655> Launched Extension Host Process.
+2024-12-20 19:45:34.550 [info] [127.0.0.1][bad6fbf2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 19:45:34.599 [info] [127.0.0.1][14d6f0cc][ExtensionHostConnection] <655> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 19:45:37.366 [info] [127.0.0.1][02d6b431][ManagementConnection] New connection established.
+2024-12-20 19:45:37.773 [info] [127.0.0.1][780ce465][ExtensionHostConnection] New connection established.
+2024-12-20 19:45:37.867 [info] [127.0.0.1][780ce465][ExtensionHostConnection] <918> Launched Extension Host Process.
+2024-12-20 19:45:44.645 [info] Getting Manifest... pranaygp.vscode-css-peek
+2024-12-20 19:45:45.116 [info] Installing extension: pranaygp.vscode-css-peek {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:45.904 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-12-20 19:45:46.468 [info] Installing extension: dbaeumer.vscode-eslint {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:48.168 [info] Extension signature verification result for pranaygp.vscode-css-peek: Success. Executed: true. Duration: 1817ms.
+2024-12-20 19:45:48.434 [info] Getting Manifest... ritwickdey.liveserver
+2024-12-20 19:45:48.802 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:50.469 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 1826ms.
+2024-12-20 19:45:50.565 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-12-20 19:45:50.580 [info] Renamed to /home/alej_coder/.vscode-server/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-12-20 19:45:50.596 [info] Extension installed successfully: dbaeumer.vscode-eslint file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:45:51.228 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 1773ms.
+2024-12-20 19:45:55.156 [info] Getting Manifest... tgreen7.vs-code-node-require
+2024-12-20 19:45:55.766 [info] Installing extension: tgreen7.vs-code-node-require {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:57.183 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-20 19:45:57.622 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:57.866 [info] Extension signature verification result for tgreen7.vs-code-node-require: Success. Executed: true. Duration: 1556ms.
+2024-12-20 19:45:58.604 [info] Getting Manifest... ms-python.python
+2024-12-20 19:45:59.298 [info] Getting Manifest... ms-python.debugpy
+2024-12-20 19:45:59.341 [info] Installing extension: ms-python.python {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:59.342 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:45:59.418 [info] Getting Manifest... ms-python.python
+2024-12-20 19:45:59.458 [info] Extension is already requested to install ms-python.python file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:01.515 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 1550ms.
+2024-12-20 19:46:02.074 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 1458ms.
+2024-12-20 19:46:04.089 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1: pranaygp.vscode-css-peek
+2024-12-20 19:46:04.586 [info] Renamed to /home/alej_coder/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1
+2024-12-20 19:46:04.633 [info] Extension installed successfully: pranaygp.vscode-css-peek file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:05.470 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2024-12-20 19:46:05.522 [info] Renamed to /home/alej_coder/.vscode-server/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2024-12-20 19:46:05.965 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2: tgreen7.vs-code-node-require
+2024-12-20 19:46:06.093 [info] Renamed to /home/alej_coder/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2
+2024-12-20 19:46:06.112 [info] Extension installed successfully: tgreen7.vs-code-node-require file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:07.077 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-12-20 19:46:07.499 [info] Renamed to /home/alej_coder/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-12-20 19:46:07.517 [info] Extension installed successfully: ritwickdey.liveserver file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:09.056 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/ms-python.python-2024.22.0-linux-x64: ms-python.python
+2024-12-20 19:46:09.238 [info] Renamed to /home/alej_coder/.vscode-server/extensions/ms-python.python-2024.22.0-linux-x64
+2024-12-20 19:46:09.477 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 1269ms.
+2024-12-20 19:46:16.200 [info] Downloaded extension to file:///home/alej_coder/.vscode-server/data/CachedExtensionVSIXs/20bcc392-4244-44e9-b11a-aa42ff2387d0
+2024-12-20 19:46:18.117 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"installOnlyNewlyAddedFromExtensionPack":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/extensions.json","external":"file:///home/alej_coder/.vscode-server/extensions/extensions.json","path":"/home/alej_coder/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-20 19:46:18.118 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2024-12-20 19:46:20.301 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-20 19:46:20.933 [info] Renamed to /home/alej_coder/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1
+2024-12-20 19:46:20.969 [info] Extension installed successfully: ms-python.debugpy file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:20.970 [info] Extension installed successfully: ms-python.python file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:20.970 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 19:46:27.223 [info] Extracted extension to file:///home/alej_coder/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-20 19:46:27.915 [info] Rename failed because of ENOTEMPTY: directory not empty, rename '/home/alej_coder/.vscode-server/extensions/.40e422f0-9b1e-4766-8873-fc4866deea82' -> '/home/alej_coder/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1'. Deleted from extracted location {"$mid":1,"fsPath":"/home/alej_coder/.vscode-server/extensions/.40e422f0-9b1e-4766-8873-fc4866deea82","path":"/home/alej_coder/.vscode-server/extensions/.40e422f0-9b1e-4766-8873-fc4866deea82","scheme":"file"}
+2024-12-20 19:46:27.918 [error] Error while installing the extension ms-python.vscode-pylance ENOTEMPTY: directory not empty, rename '/home/alej_coder/.vscode-server/extensions/.40e422f0-9b1e-4766-8873-fc4866deea82' -> '/home/alej_coder/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1' file:///home/alej_coder/.vscode-server/extensions/extensions.json
+2024-12-20 20:58:09.171 [info] [127.0.0.1][02d6b431][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 20:58:09.609 [info] [127.0.0.1][780ce465][ExtensionHostConnection] <918> Extension Host Process exited with code: 0, signal: null.

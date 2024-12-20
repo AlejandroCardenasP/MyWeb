@@ -1,0 +1,33 @@
+2024-12-20 21:40:47.875 [info] [main] Log level: Info
+2024-12-20 21:40:47.875 [info] [main] Validating found git in: "git"
+2024-12-20 21:40:47.875 [info] [main] Using git "2.43.0" from "git"
+2024-12-20 21:40:47.875 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-20 21:40:47.875 [info] > git rev-parse --show-toplevel [18ms]
+2024-12-20 21:40:47.875 [info] > git rev-parse --git-dir --git-common-dir [337ms]
+2024-12-20 21:40:47.875 [info] [Model][openRepository] Opened repository: /home/alej_coder
+2024-12-20 21:40:48.072 [info] > git config --get commit.template [191ms]
+2024-12-20 21:40:48.074 [info] > git rev-parse --show-toplevel [31ms]
+2024-12-20 21:40:48.115 [info] > git rev-parse --show-toplevel [20ms]
+2024-12-20 21:40:48.116 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2024-12-20 21:40:48.159 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-12-20 21:40:48.167 [info] > git rev-parse --show-toplevel [11ms]
+2024-12-20 21:40:48.186 [info] > git rev-parse --show-toplevel [10ms]
+2024-12-20 21:40:48.201 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 21:40:48.206 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-20 21:40:48.297 [info] > git show --textconv :myweb.html [9ms]
+2024-12-20 21:40:48.301 [info] > git ls-files --stage -- /home/alej_coder/myweb.html [8ms]
+2024-12-20 21:40:48.305 [info] > git cat-file -s c31edf56df36ee0da370c919951604f2a1b49716 [2ms]
+2024-12-20 21:40:48.323 [info] > git blame --root --incremental a65978307d10f1994a11826b8cd0833363a16090 -- /home/alej_coder/myweb.html [2ms]
+2024-12-20 21:40:48.584 [info] > git check-ignore -v -z --stdin [6ms]
+2024-12-20 21:40:49.434 [info] > git status -z -uall [1314ms] (cancelled)
+2024-12-20 21:40:55.598 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-12-20 21:40:56.593 [info] > git config --local branch.master.vscode-merge-base [991ms]
+2024-12-20 21:40:56.594 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-20 21:40:56.597 [info] > git config --get commit.template [1000ms]
+2024-12-20 21:40:56.634 [info] > git reflog master --grep-reflog=branch: Created from *. [38ms]
+2024-12-20 21:40:56.650 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-20 21:40:56.657 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [19ms]
+2024-12-20 21:40:56.657 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-20 21:40:56.657 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-20 21:40:56.661 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-12-20 21:40:58.094 [info] > git status -z -uall [1441ms] (cancelled)
